@@ -1,4 +1,6 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
+Name:R.Sabarinath 
+Register No:212223100048
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
